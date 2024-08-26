@@ -34,4 +34,4 @@ This repository is designed to assist developers in creating and managing produc
    mvn clean install
 3.Deploy the application on a local server (e.g., Apache Tomcat).
 
-4.Open your browser and navigate to http://localhost:8080/your-app-context to view the application.
+4.Open your browser and navigate to http://localhost:8080/
