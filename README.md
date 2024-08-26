@@ -1,4 +1,4 @@
-#- Product Manager and E-Commerce Integration
+#Product Manager and E-Commerce Integration
 
 Welcome to the **Owner Avatar - Product Manager and E-Commerce Integration** repository! This project is tailored for Java developers, especially those interested in JEE (Java Enterprise Edition) and beginners in web development (HTML, CSS, JavaScript). 
 
